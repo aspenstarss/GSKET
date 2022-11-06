@@ -8,6 +8,7 @@
 - `torchvison`
 - [Microsoft COCO Caption Evaluation Tools](https://github.com/tylin/coco-caption)
 - [CheXpert](https://github.com/stanfordmlgroup/chexpert-labeler)
+- [TorchXRayVision](https://github.com/mlmed/torchxrayvision)
 
 `conda activate tencent`
 
@@ -55,3 +56,8 @@ Shuxin Yang, Xian Wu, Shen Ge, S. Kevin Zhou, Li Xiao, Knowledge Matters: Radiol
 ## Contact
 If you have any problem with the code, please contact  Li Xiao(andrew.lxiao@gmail.com) or Shuxin Yang(aspenstarss@gmail.com).
 
+## Thanks
+Joseph Paul Cohen, Joseph D. Viviano, Paul Bertin, Paul Morrison, Parsa Torabian, Matteo Guarrera, Matthew P Lungren, Akshay Chaudhari, Rupert Brooks, Mohammad Hashir, Hadrien Bertrand.
+TorchXRayVision: A library of chest X-ray datasets and models. 
+Medical Imaging with Deep Learning.
+https://github.com/mlmed/torchxrayvision, 2020
